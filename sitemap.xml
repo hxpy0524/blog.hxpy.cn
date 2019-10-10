@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://yoursite.com/2019/10/10/appium/</loc>
+    
+    <lastmod>2019-10-10T03:49:39.141Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/lib/pjax/package.json</loc>
+    
+    <lastmod>2019-10-10T03:27:02.813Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/lib/pjax/example/page3.html</loc>
+    
+    <lastmod>2019-10-10T03:27:02.777Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/lib/pjax/example/page2.html</loc>
+    
+    <lastmod>2019-10-10T03:27:02.776Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/lib/pjax/example/index.html</loc>
+    
+    <lastmod>2019-10-10T03:27:02.773Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/lib/pjax/example/forms.html</loc>
+    
+    <lastmod>2019-10-10T03:27:02.772Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/lib/pjax/CHANGELOG.html</loc>
+    
+    <lastmod>2019-10-10T03:27:02.765Z</lastmod>
+    
+  </url>
+  
+</urlset>
